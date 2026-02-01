@@ -1,0 +1,5 @@
+ISBN,Title,Author,Year,Available,BorrowedBy,DueDate
+978678546,Harry Potter,JK Rowling,2000,true,null,null
+98765474893,Atomic Habits,James clear,2016,true,null,null
+98768990987,Time machine,HG. Wells,1980,true,null,null
+89765790098,Ikigai,Garet,2018,true,null,null
