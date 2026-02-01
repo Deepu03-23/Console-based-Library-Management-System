@@ -24,5 +24,5 @@ A Java-based console application to manage books, members, and borrowing operati
 3. Click ▶ Run
 4. Use menu options in terminal
 
-## Author
-Student Project – Library Management System
+
+
